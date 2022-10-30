@@ -39,7 +39,8 @@ console.log(1 == 2)
 // diferente
 console.log(1 != 3) */
 
-/* Exercicio 4 
+/* Exercicio 4 */
+
 const a = 3;
 const b = -2;
 const c = 2;
@@ -47,11 +48,11 @@ const d = 2;
 
 console.log(!(a > 0 || b > 0));
 console.log((c && d) == 2);
-console.log((a || c) == 2); */
+console.log((a || c) == 2); 
 
 /* Exercicio 5 
-// NaN
-console.log('a' * 2); */ 
+// NaN 
+console.log('a' * 2); */
 
 
 
